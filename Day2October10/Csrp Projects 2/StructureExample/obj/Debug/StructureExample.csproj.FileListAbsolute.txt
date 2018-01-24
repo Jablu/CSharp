@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day2October10\Csrp Projects 2\StructureExample\bin\Debug\StructureExample.exe.config
+D:\AbinashMishra\Day2October10\Csrp Projects 2\StructureExample\bin\Debug\StructureExample.exe
+D:\AbinashMishra\Day2October10\Csrp Projects 2\StructureExample\bin\Debug\StructureExample.pdb
+D:\AbinashMishra\Day2October10\Csrp Projects 2\StructureExample\obj\Debug\StructureExample.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day2October10\Csrp Projects 2\StructureExample\obj\Debug\StructureExample.exe
+D:\AbinashMishra\Day2October10\Csrp Projects 2\StructureExample\obj\Debug\StructureExample.pdb

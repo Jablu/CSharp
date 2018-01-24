@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPolymorphismQuestion", "DynamicPolymorphismQuestion\DynamicPolymorphismQuestion.csproj", "{BF0EA269-D5F8-4DC7-A30A-2A51333A8E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPolymorphism", "DynamicPolymorphism\DynamicPolymorphism.csproj", "{2CDD7D2A-DBE9-40FF-9953-CC20CFCE6968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPolymorphism", "CarPolymorphism\CarPolymorphism.csproj", "{16ADF793-4855-4362-B07A-7B1C5AFD14C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0EA269-D5F8-4DC7-A30A-2A51333A8E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0EA269-D5F8-4DC7-A30A-2A51333A8E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0EA269-D5F8-4DC7-A30A-2A51333A8E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0EA269-D5F8-4DC7-A30A-2A51333A8E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDD7D2A-DBE9-40FF-9953-CC20CFCE6968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDD7D2A-DBE9-40FF-9953-CC20CFCE6968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDD7D2A-DBE9-40FF-9953-CC20CFCE6968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDD7D2A-DBE9-40FF-9953-CC20CFCE6968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16ADF793-4855-4362-B07A-7B1C5AFD14C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16ADF793-4855-4362-B07A-7B1C5AFD14C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16ADF793-4855-4362-B07A-7B1C5AFD14C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16ADF793-4855-4362-B07A-7B1C5AFD14C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

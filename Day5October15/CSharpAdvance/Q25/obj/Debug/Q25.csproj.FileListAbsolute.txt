@@ -1,0 +1,5 @@
+D:\AbinashMishra\Day5October15\CSharpAdvance\Q25\bin\Debug\Q25.exe.config
+D:\AbinashMishra\Day5October15\CSharpAdvance\Q25\bin\Debug\Q25.exe
+D:\AbinashMishra\Day5October15\CSharpAdvance\Q25\bin\Debug\Q25.pdb
+D:\AbinashMishra\Day5October15\CSharpAdvance\Q25\obj\Debug\Q25.exe
+D:\AbinashMishra\Day5October15\CSharpAdvance\Q25\obj\Debug\Q25.pdb

@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day3October13\NameSpaceExample\NameSpaceExample\bin\Debug\NameSpaceExample.exe.config
+D:\AbinashMishra\Day3October13\NameSpaceExample\NameSpaceExample\bin\Debug\NameSpaceExample.exe
+D:\AbinashMishra\Day3October13\NameSpaceExample\NameSpaceExample\bin\Debug\NameSpaceExample.pdb
+D:\AbinashMishra\Day3October13\NameSpaceExample\NameSpaceExample\obj\Debug\NameSpaceExample.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day3October13\NameSpaceExample\NameSpaceExample\obj\Debug\NameSpaceExample.exe
+D:\AbinashMishra\Day3October13\NameSpaceExample\NameSpaceExample\obj\Debug\NameSpaceExample.pdb

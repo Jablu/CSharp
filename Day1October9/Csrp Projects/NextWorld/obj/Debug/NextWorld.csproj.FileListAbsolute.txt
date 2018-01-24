@@ -1,0 +1,8 @@
+D:\AbinashMishra\Day1October9\Csrp Projects\NextWorld\bin\Debug\NextWorld.exe.config
+D:\AbinashMishra\Day1October9\Csrp Projects\NextWorld\bin\Debug\NextWorld.exe
+D:\AbinashMishra\Day1October9\Csrp Projects\NextWorld\bin\Debug\NextWorld.pdb
+D:\AbinashMishra\Day1October9\Csrp Projects\NextWorld\obj\Debug\NextWorld.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day1October9\Csrp Projects\NextWorld\obj\Debug\NextWorld.exe
+D:\AbinashMishra\Day1October9\Csrp Projects\NextWorld\obj\Debug\NextWorld.pdb
+D:\AbinashMishra\Day1October9\Csrp Projects\NextWorld\bin\Debug\NextWorld.exe.CodeAnalysisLog.xml
+D:\AbinashMishra\Day1October9\Csrp Projects\NextWorld\bin\Debug\NextWorld.exe.lastcodeanalysissucceeded

@@ -1,0 +1,5 @@
+D:\AbinashMishra\Day2October10\CustomLib\bin\Debug\CustomLib.dll
+D:\AbinashMishra\Day2October10\CustomLib\bin\Debug\CustomLib.pdb
+D:\AbinashMishra\Day2October10\CustomLib\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day2October10\CustomLib\obj\Debug\CustomLib.dll
+D:\AbinashMishra\Day2October10\CustomLib\obj\Debug\CustomLib.pdb

@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day2October10\Csrp Projects 2\EnumExample\bin\Debug\EnumExample.exe.config
+D:\AbinashMishra\Day2October10\Csrp Projects 2\EnumExample\bin\Debug\EnumExample.exe
+D:\AbinashMishra\Day2October10\Csrp Projects 2\EnumExample\bin\Debug\EnumExample.pdb
+D:\AbinashMishra\Day2October10\Csrp Projects 2\EnumExample\obj\Debug\EnumExample.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day2October10\Csrp Projects 2\EnumExample\obj\Debug\EnumExample.exe
+D:\AbinashMishra\Day2October10\Csrp Projects 2\EnumExample\obj\Debug\EnumExample.pdb

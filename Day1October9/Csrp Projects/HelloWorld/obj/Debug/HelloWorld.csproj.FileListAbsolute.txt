@@ -1,0 +1,7 @@
+D:\AbinashMishra\Day1October9\Csrp Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\AbinashMishra\Day1October9\Csrp Projects\HelloWorld\bin\Debug\HelloWorld.exe
+D:\AbinashMishra\Day1October9\Csrp Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\AbinashMishra\Day1October9\Csrp Projects\HelloWorld\obj\Debug\HelloWorld.exe
+D:\AbinashMishra\Day1October9\Csrp Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\AbinashMishra\Day1October9\Csrp Projects\HelloWorld\bin\Debug\HelloWorld.exe.CodeAnalysisLog.xml
+D:\AbinashMishra\Day1October9\Csrp Projects\HelloWorld\bin\Debug\HelloWorld.exe.lastcodeanalysissucceeded

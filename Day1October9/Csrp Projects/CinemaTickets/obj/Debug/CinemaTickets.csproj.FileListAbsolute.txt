@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day1October9\Csrp Projects\CinemaTickets\bin\Debug\CinemaTickets.exe.config
+D:\AbinashMishra\Day1October9\Csrp Projects\CinemaTickets\bin\Debug\CinemaTickets.exe
+D:\AbinashMishra\Day1October9\Csrp Projects\CinemaTickets\bin\Debug\CinemaTickets.pdb
+D:\AbinashMishra\Day1October9\Csrp Projects\CinemaTickets\obj\Debug\CinemaTickets.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day1October9\Csrp Projects\CinemaTickets\obj\Debug\CinemaTickets.exe
+D:\AbinashMishra\Day1October9\Csrp Projects\CinemaTickets\obj\Debug\CinemaTickets.pdb

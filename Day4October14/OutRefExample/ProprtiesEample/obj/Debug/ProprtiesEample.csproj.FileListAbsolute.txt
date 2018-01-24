@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day4October14\OutRefExample\ProprtiesEample\bin\Debug\ProprtiesEample.exe.config
+D:\AbinashMishra\Day4October14\OutRefExample\ProprtiesEample\bin\Debug\ProprtiesEample.exe
+D:\AbinashMishra\Day4October14\OutRefExample\ProprtiesEample\bin\Debug\ProprtiesEample.pdb
+D:\AbinashMishra\Day4October14\OutRefExample\ProprtiesEample\obj\Debug\ProprtiesEample.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day4October14\OutRefExample\ProprtiesEample\obj\Debug\ProprtiesEample.exe
+D:\AbinashMishra\Day4October14\OutRefExample\ProprtiesEample\obj\Debug\ProprtiesEample.pdb

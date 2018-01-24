@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day5October15\ErrorHandling\ErrorIntro\bin\Debug\ErrorIntro.exe.config
+D:\AbinashMishra\Day5October15\ErrorHandling\ErrorIntro\bin\Debug\ErrorIntro.exe
+D:\AbinashMishra\Day5October15\ErrorHandling\ErrorIntro\bin\Debug\ErrorIntro.pdb
+D:\AbinashMishra\Day5October15\ErrorHandling\ErrorIntro\obj\Debug\ErrorIntro.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day5October15\ErrorHandling\ErrorIntro\obj\Debug\ErrorIntro.exe
+D:\AbinashMishra\Day5October15\ErrorHandling\ErrorIntro\obj\Debug\ErrorIntro.pdb

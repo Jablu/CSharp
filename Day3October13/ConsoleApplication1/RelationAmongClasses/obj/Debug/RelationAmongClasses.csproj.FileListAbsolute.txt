@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day3October13\ConsoleApplication1\RelationAmongClasses\bin\Debug\RelationAmongClasses.exe.config
+D:\AbinashMishra\Day3October13\ConsoleApplication1\RelationAmongClasses\bin\Debug\RelationAmongClasses.exe
+D:\AbinashMishra\Day3October13\ConsoleApplication1\RelationAmongClasses\bin\Debug\RelationAmongClasses.pdb
+D:\AbinashMishra\Day3October13\ConsoleApplication1\RelationAmongClasses\obj\Debug\RelationAmongClasses.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day3October13\ConsoleApplication1\RelationAmongClasses\obj\Debug\RelationAmongClasses.exe
+D:\AbinashMishra\Day3October13\ConsoleApplication1\RelationAmongClasses\obj\Debug\RelationAmongClasses.pdb

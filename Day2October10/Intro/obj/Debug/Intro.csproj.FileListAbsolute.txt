@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day2October10\Intro\bin\Debug\Intro.exe.config
+D:\AbinashMishra\Day2October10\Intro\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day2October10\Intro\bin\Debug\Intro.exe
+D:\AbinashMishra\Day2October10\Intro\bin\Debug\Intro.pdb
+D:\AbinashMishra\Day2October10\Intro\obj\Debug\Intro.exe
+D:\AbinashMishra\Day2October10\Intro\obj\Debug\Intro.pdb

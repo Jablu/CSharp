@@ -1,0 +1,5 @@
+D:\AbinashMishra\Day2October10\ExperimentClass\bin\Debug\ExperimentClass.dll
+D:\AbinashMishra\Day2October10\ExperimentClass\bin\Debug\ExperimentClass.pdb
+D:\AbinashMishra\Day2October10\ExperimentClass\obj\Debug\ExperimentClass.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day2October10\ExperimentClass\obj\Debug\ExperimentClass.dll
+D:\AbinashMishra\Day2October10\ExperimentClass\obj\Debug\ExperimentClass.pdb

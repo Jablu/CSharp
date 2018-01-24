@@ -1,0 +1,6 @@
+D:\AbinashMishra\Day1October9\Csrp Projects\SalaryAccount\bin\Debug\SalaryAccount.exe.config
+D:\AbinashMishra\Day1October9\Csrp Projects\SalaryAccount\bin\Debug\SalaryAccount.exe
+D:\AbinashMishra\Day1October9\Csrp Projects\SalaryAccount\bin\Debug\SalaryAccount.pdb
+D:\AbinashMishra\Day1October9\Csrp Projects\SalaryAccount\obj\Debug\SalaryAccount.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day1October9\Csrp Projects\SalaryAccount\obj\Debug\SalaryAccount.exe
+D:\AbinashMishra\Day1October9\Csrp Projects\SalaryAccount\obj\Debug\SalaryAccount.pdb

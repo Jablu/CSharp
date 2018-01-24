@@ -1,0 +1,5 @@
+D:\AbinashMishra\Day5October15\CSharpAdvance\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+D:\AbinashMishra\Day5October15\CSharpAdvance\StackAndQueue\bin\Debug\StackAndQueue.exe
+D:\AbinashMishra\Day5October15\CSharpAdvance\StackAndQueue\bin\Debug\StackAndQueue.pdb
+D:\AbinashMishra\Day5October15\CSharpAdvance\StackAndQueue\obj\Debug\StackAndQueue.exe
+D:\AbinashMishra\Day5October15\CSharpAdvance\StackAndQueue\obj\Debug\StackAndQueue.pdb

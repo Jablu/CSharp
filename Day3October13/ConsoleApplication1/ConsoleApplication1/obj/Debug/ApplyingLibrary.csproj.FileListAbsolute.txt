@@ -1,0 +1,10 @@
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\bin\Debug\CustomLibrary.dll
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\bin\Debug\CustomLibrary.pdb
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\obj\Debug\ApplyingLibrary.csprojResolveAssemblyReference.cache
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.CodeAnalysisLog.xml
+D:\AbinashMishra\Day3October13\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.lastcodeanalysissucceeded
